@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChatGptProject/.vs
+/.vs/Open_AI_First_Demo/FileContentIndex
+/.vs/Open_AI_First_Demo/v17
+/ChatGptProject/bin/Debug/net8.0
+/ChatGptProject/obj
+/.vs
